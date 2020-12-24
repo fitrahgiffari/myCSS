@@ -1,0 +1,60 @@
+body {
+  background-color: #88E3DC;
+}
+
+
+header {
+  column-width: 10px;
+  column-gap: 65px;
+  column-fill: balance;
+  background-color: black;
+  font-size: 16px;
+  text-align: left;
+  padding: 16px;
+  column-span: all;
+  margin-top: 0;}
+
+ul {
+  margin :0;
+  padding: 0;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+}
+
+.card {
+z-index: 1;
+}
+
+.slider-img{
+z-index: 2;
+margin: 5px;
+}
+
+.image{
+z-index: 4;
+float: left;
+margin: 0;
+padding: 15px;
+}
+
+.p-text {
+z-index: 3;
+text-align: justify;
+column-width: 200px;
+column-fill: auto;
+column-gap: 20px;
+}
+
+.footer{
+  z-index: 5;
+  column-span: all;
+  text-align: center;
+  background-color: black;
+  color: white;
+  column-fill: balance;
+  margin: 0;
+  padding: 0;
+}

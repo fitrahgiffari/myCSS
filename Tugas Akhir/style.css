@@ -1,0 +1,66 @@
+.navbar-brand {
+      padding: 3px 3px;
+      display: inline-block;
+      color: white;
+      letter-spacing: 2px;
+      text-decoration: none;
+      overflow: hidden;
+  }
+
+  /*creating animation effect*/
+  .navbar-brand:hover {
+      color:#008000;
+      background: #f5f242;
+      box-shadow: 0 0 10px #f5f242;
+  }
+
+  .nav-item1 {
+        padding: 3px 3px;
+        display: inline-block;
+        color: #008000;
+        letter-spacing: 2px;
+        text-decoration: none;
+        overflow: hidden;
+    }
+
+    /*creating animation effect*/
+    .nav-item1:hover {
+        color: #111;
+        background: #4251f5;
+        box-shadow: 0 0 10px #4251f5;
+    }
+
+    .nav-item2 {
+          padding: 3px 3px;
+          display: inline-block;
+          color: #008000;
+          letter-spacing: 2px;
+          text-decoration: none;
+          overflow: hidden;
+      }
+
+      /*creating animation effect*/
+      .nav-item2:hover {
+          color: #111;
+          background: #0ead00;
+          box-shadow: 0 0 10px #42f57e;
+      }
+
+/* end of navbar editing */
+
+/* start edit the body */
+      body {
+        margin: 0;
+        padding: 0;
+      }
+
+      section {
+        width: 100%;
+        height : 100%;
+        background: url(pantai1.jpg);
+        background-size: cover;
+        position: relative;
+
+      }
+
+      

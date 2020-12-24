@@ -1,0 +1,24 @@
+h1 {
+  text-align: right;
+}
+p {
+  text-align: right;
+  font-weight: bold;
+}
+
+body {
+  background-image: url(slider2.jpg);
+  background-size: cover;
+}
+
+.container{
+  width: 800px;
+ height: 900px;
+ float: right;
+ position: relative;
+}
+
+.text {
+  position: relative;
+  background-color: white;
+}

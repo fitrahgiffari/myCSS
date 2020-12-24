@@ -1,0 +1,12 @@
+button {
+  font-size: 30px;
+  color: #9c730c;
+}
+input {
+  border: 1;
+  border: solid;
+  border-width: thin;
+  border-top-color: gray;
+  border-right-color: gray;
+  font-size: 20px !important;
+}

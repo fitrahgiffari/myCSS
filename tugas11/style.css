@@ -1,0 +1,72 @@
+body {
+  background-color: #EAE3E2;
+}
+.artikel {
+  text-align: justify;
+}
+.satu {
+  height:200px;
+    column-width: 350px;
+    column-rule: 3px solid;
+    column-gap: 10px;
+}
+
+.dua{
+  height:200px;
+    column-width: 350px;
+    column-rule: 3px solid;
+    column-gap: 10px;
+}
+
+.tiga {
+  height:200px;
+    column-width: 350px;
+    column-rule: 3px solid;
+    column-gap: 10px;
+}
+
+header {
+  column-width: 10px;
+  column-gap: 65px;
+  column-fill: balance;
+  background-color: black;
+  font-size: 16px;
+  text-align: left;
+  padding: 16px;
+  column-span: all;
+}
+
+
+
+ul {
+  margin :0;
+  padding: 0;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+}
+
+
+.span {
+  column-span: all;
+}
+
+.footer {
+  column-span: all;
+  text-align: center;
+  background-color: black;
+  color: white;
+  column-fill: balance;
+  margin: 0;
+  padding: 0;
+}
+
+h2 {
+  top: 30%;
+  position: relative;
+  margin-top: -10px;
+  padding:8px;
+
+}
